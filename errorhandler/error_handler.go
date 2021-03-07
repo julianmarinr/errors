@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/julianskyline/errors/exceptions"
+	"github.com/julianmarinr/errors/exceptions"
 	"github.com/pkg/errors"
 )
 
